@@ -107,7 +107,7 @@ async function openTelemetryOptInDialogIfNeeded(context: ExtensionContext, exten
     });
   }
 
-  const message: string = `Help Red Hat improve its extensions by allowing them to collect usage data. 
+  const message: string = `Help us improve its extensions by allowing them to collect usage data. 
     Read our [privacy statement](${PRIVACY_STATEMENT_URL}?from=${extensionId}) 
   and learn how to [opt out](${OPT_OUT_INSTRUCTIONS_URL}?from=${extensionId}).`;
 

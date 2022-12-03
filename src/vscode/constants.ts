@@ -4,9 +4,9 @@
 */
 export const OPT_IN_STATUS_KEY = 'redhat.telemetry.optInRequested';
 export const PRIVACY_STATEMENT_URL: string =
-  'https://developers.redhat.com/article/tool-data-collection';
+  'https://about.you.com/hc/faq/how-does-you-com-protect-my-privacy';
 export const OPT_OUT_INSTRUCTIONS_URL: string =
-  'https://github.com/redhat-developer/vscode-redhat-telemetry#how-to-disable-telemetry-reporting';
+  'https://about.you.com/hc/faq/how-does-you-com-protect-my-privacy/';
 export const CONFIG_KEY = 'redhat.telemetry';
 
 export const DEFAULT_SEGMENT_KEY = 'MXM7iv13sVaCGqOhnQEGLZxhfy6hecYh';
