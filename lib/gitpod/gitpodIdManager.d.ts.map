@@ -1,0 +1,1 @@
+{"version":3,"file":"gitpodIdManager.d.ts","sourceRoot":"","sources":["../../src/gitpod/gitpodIdManager.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,IAAI,CAAC;AAK/B,qBAAa,eAAgB,YAAW,SAAS;IACvC,aAAa,IAAI,OAAO,CAAC,MAAM,CAAC;IAOtC,cAAc,CAAC,SAAS,CAAC,EAAE,MAAM,GAAG,MAAM;CAoB7C"}

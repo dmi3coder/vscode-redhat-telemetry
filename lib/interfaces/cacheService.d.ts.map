@@ -1,0 +1,1 @@
+{"version":3,"file":"cacheService.d.ts","sourceRoot":"","sources":["../../src/interfaces/cacheService.ts"],"names":[],"mappings":"AAAA;;GAEG;AACF,MAAM,WAAW,YAAY;IAC1B;;OAEG;IACH,GAAG,CAAC,GAAG,EAAE,MAAM,GAAE,OAAO,CAAC,MAAM,GAAC,SAAS,CAAC,CAAC;IAE3C,GAAG,CAAC,GAAG,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM,GAAE,OAAO,CAAC,OAAO,CAAC,CAAC;CACpD"}
